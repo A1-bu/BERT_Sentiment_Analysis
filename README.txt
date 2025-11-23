@@ -1,7 +1,3 @@
-CS 688
-Aaron T.
-12/5/2024
-
 README
 
 When opening this folder please make sure that the following files are present:  
